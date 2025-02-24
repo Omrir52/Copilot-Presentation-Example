@@ -41,3 +41,8 @@ def prime_factorization(n):
         else:
             Divisor += 1
     return factors
+
+
+# Use Copilot to write a function which prime factorizes the factorial of
+# a number. Try to improve efficiency using Copilot.
+# Delete these instructions before asking Copilot for help

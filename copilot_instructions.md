@@ -4,7 +4,7 @@ Everything should follow PEP 8 conventions.
 
 # Code Instructions
 
-Every fuction should have a docstring.
+Every function should have a docstring.
 
 # Tests Instructions
 
